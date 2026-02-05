@@ -63,8 +63,8 @@ A **Logistic Regression** classifier is trained on TF-IDF features.
 |------|------|
 | Accuracy | ~86% |
 | Precision | ~0.86 |
-| Recall | ~0.86 |
-| F1-Score | ~0.86 |
+| Recall | ~0.87 |
+| F1-Score | ~0.8t |
 
 Performance is consistent across both sentiment classes, indicating good generalization.
 
